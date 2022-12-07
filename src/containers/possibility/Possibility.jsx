@@ -1,8 +1,10 @@
 import React from "react";
-import "./blog.css";
+import "./possibility.css";
 
 const Possibility = () => {
-  return <div></div>;
+  return <div>
+    <h3>Possibility</h3>
+  </div>;
 };
 
 export default Possibility;
